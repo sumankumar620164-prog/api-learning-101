@@ -2,6 +2,17 @@
 
 Welcome to API Learning 101! This repository is your comprehensive guide to understanding and working with APIs, complete with a fully functional REST API backend and hands-on learning resources.
 
+<p align="center">
+  <a href="https://github.com/nisalgunawardhana/api-learning-101">
+    <img src="https://img.shields.io/github/stars/nisalgunawardhana/api-learning-101?style=social" alt="Star this repo">
+  </a>
+  <a href="https://github.com/nisalgunawardhana">
+    <img src="https://img.shields.io/github/followers/nisalgunawardhana?style=social&label=Follow%20%40nisalgunawardhana" alt="Follow me on GitHub">
+  </a>
+</p>
+
+> ⭐ If you find this helpful, please **[star this repository](https://github.com/nisalgunawardhana/api-learning-101)** and **[follow me on GitHub](https://github.com/nisalgunawardhana)** to stay updated!
+
 ![API Learning 101 Banner](images/banner.png)
 
 ## 🌐 Live Demo
